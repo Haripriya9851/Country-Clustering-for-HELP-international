@@ -1,9 +1,7 @@
 # Country-Categorization-for-HELP-international Using Unsupervised Learning
-categorizing the countries using socio-economic and health factors that determine the overall development of the country using ML
 
 # Objective
-To categorise the countries using socio-economic and health factors that determine the overall development of the country.
-
+To categorise the countries using socio-economic and health factors that determine the overall development of the country. 
 # Dataset Details:
 Kaggle Dataset - [Unsupervised Learning on Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data)
 Dataset used has 10 columns and description of each is as follows.
